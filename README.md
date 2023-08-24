@@ -3,4 +3,5 @@ Simple clicker made in C#, needs Siticone
 
 # GUI Screenshot:
 
-> ![Screenshot_336](https://github.com/Desistirei/KarinClicker/assets/35118711/adfaf5d9-ed1d-49cb-ad0c-bc7f275c6fc6)
+> ![Screenshot_336](https://github.com/Desistirei/KarinClicker/assets/35118711/45d1e067-db36-46ab-93dd-0c8df8e0f649)
+
